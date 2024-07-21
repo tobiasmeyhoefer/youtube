@@ -1,0 +1,29 @@
+/* FIRST APPROACH */
+
+main {
+    color: red;
+}
+h1 {
+    color: blue;
+}
+span {
+    color: green;
+}
+strong {
+    color:brown;
+}
+
+/* NEW APPROACH */
+
+main {
+  color: #ff0000;
+  h1 {
+    color: blue;
+  }
+  span {
+    color: green;
+    strong {
+      color: brown;
+    }
+  }
+}
